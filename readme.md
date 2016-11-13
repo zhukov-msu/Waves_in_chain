@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/zhukov-msu/Waves_in_chain/master/logo.png) Waves in a chain
+# ![](https://raw.githubusercontent.com/zhukov-msu/Waves_in_chain/master/logo.jpg) Waves in a chain
 
 Project for physics course in 2013-2014. In colaboration with [Alexander Novikov](https://github.com/novikov-alexander/).
 
