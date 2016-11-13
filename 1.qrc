@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/lambda.png</file>
+        <file>images/omega.png</file>
+        <file>images/white.png</file>
+        <file>images/phys.png</file>
+        <file>images/phys1.png</file>
+        <file>images/cmc.png</file>
+        <file>images/cmc1.png</file>
+        <file>images/zhukov.png</file>
+        <file>images/novikov.png</file>
+        <file>images/mono.png</file>
+        <file>images/double.png</file>
+        <file>images/train.png</file>
+        <file>images/omega1.png</file>
+        <file>images/omegaOpticalMax.png</file>
+        <file>images/omegaAcoustMax.png</file>
+        <file>images/omegaOpticalMin.png</file>	
+    </qresource>
+</RCC>
